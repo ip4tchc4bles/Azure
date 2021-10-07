@@ -225,25 +225,6 @@ $SGs = Get-AzNetworkSecurityGroup
 
  #Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
 Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
-Get-AzPublicIpAddress | Select-Object -Property IpAddress,ResourceGroupName
 
  ##Pull WebApps HTTPS Enabled
  Get-AzWebApp | Select-Object -Property ResourceGroup,DefaultHostname,HTTPSOnly
